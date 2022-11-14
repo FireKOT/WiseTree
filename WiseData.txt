@@ -1,0 +1,19 @@
+{"Live in edinichka"
+    {"Animal"
+        {"Clown"
+            {"Dashkov"}
+            {"Poltorashka"}
+        }
+        {"Student"
+            {"Random RT sutudent"}
+            {"Ded"}
+        }
+    }
+    {"Live in Dvoika"
+        {"Stuff"
+            {"Sequrity"}
+            {"KOT"}
+        }
+        {"Shtepin"}
+    }
+}
