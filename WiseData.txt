@@ -1,19 +1,34 @@
-{"Live in edinichka"
-    {"Animal"
-        {"Clown"
-            {"Dashkov"}
-            {"Poltorashka"}
+{"Demon"
+    {"Relate to the Hell Court"
+        {"Awesome"
+            {"Justice, The Awesome Demon (The Best Demon)"}
+            {"Judgement, The High Prosecutor"}
         }
-        {"Student"
-            {"Random RT sutudent"}
-            {"Ded"}
+        {"Sadistic"
+            {"Pandemonica, The Tired Demon"}
+            {"Likes to play"
+                {"Multiple Demon"
+                    {"Cerberus, The Triple Demon"}
+                    {"Malina, The Sour Demon"}
+                }
+                {"Horny"
+                    {"Modeus, The Lustful Demon"}
+                    {"Like Smoking"
+                        {"Zdrada, The Bitch Demon"}
+                        {"Lucifer, CEO of Hell"}
+                    }
+                }
+            }
         }
     }
-    {"Live in Dvoika"
-        {"Stuff"
-            {"Sequrity"}
-            {"KOT"}
+    {"Fallen Angel"
+        {"Loremaster, The Science Demon"}
+        {"Angel"
+            {"Azazel, The Curious Angel"}
+            {"Human"
+                {"The Helltaker"}
+                {"Subject 67"}
+            }
         }
-        {"Shtepin"}
     }
 }
